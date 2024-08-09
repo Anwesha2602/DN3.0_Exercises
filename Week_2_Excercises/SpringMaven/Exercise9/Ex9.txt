@@ -1,0 +1,1 @@
+Configured the Spring Boot application with the required dependencies by adding them in the application.properties file.Created an interface for "BookRepository" and added an entity "Book".A rest controller class "BookController.java" was created to take care of the CRUB operations.The Spring Boot application was run and the REST endpoints were tested successfully!
